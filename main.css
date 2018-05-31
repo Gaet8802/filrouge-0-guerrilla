@@ -10,9 +10,10 @@
 /* Reset */
 .back{
     background-image: url("https://ak8.picdn.net/shutterstock/videos/7131988/thumb/10.jpg");
-    background-size:200%:
-    background-repeat: repeat;
-    background-color:rgb(47, 47, 201);
+    background-repeat: no-repeat;
+	background-color:rgb(47, 47, 201);
+	background-attachment:fixed;
+	background-repeat:repeat;
 }
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
