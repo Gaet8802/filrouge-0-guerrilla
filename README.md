@@ -17,6 +17,9 @@ We Could have use templates from different sources or doing the code ourselves
 
 everything in one page only of course.
 
+I chose to doing the template way.
+
+
 ## When ?
 
  
@@ -37,3 +40,12 @@ By a github page
 
 
 > https://gaet8802.github.io/filrouge-0-guerrilla/
+
+## Built with :
+
+VisualStudioCode
+
+Html and CSS only.
+
+I deleted the JS and Sass from the template cause I don't know those languages yet.
+
